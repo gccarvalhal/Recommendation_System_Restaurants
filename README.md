@@ -3,7 +3,19 @@
 **PROJECT DESCRIPTION:** Restaurant Recommendation System based on historical data of user reviews of multiple restaurants.
 
 
-**TECHNICAL GOAL:** Collaborative based filtering; Content based filtering; Hybrid based filtering
+**TECHNICAL GOAL:**
+
+Goal 1: Collaborative-Based
+Recommend restaurants given a sentence input from the user describing the typed experience.
+
+
+Goal 2: Content-Based
+Recommend other restaurants given a restaurant name input which has highly similar users reviews.  
+
+
+Extra: Hybrid-Based
+Recommend restaurants given a sentence input from the user describing the typed experience and a new similar option to the chosen recommendation.
+
 
 
 1)	**Download Files:** 
