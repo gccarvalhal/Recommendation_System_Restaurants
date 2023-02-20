@@ -1,6 +1,7 @@
 # Recommendation_System_Restaurants
 
-**PROJECT DESCRIPTION:** 
+**PROJECT DESCRIPTION:** Restaurant Recommendation System based on historical data of user reviews of multiple restaurants.
+
 
 **TECHNICAL GOAL:** Collaborative based filtering; Content based filtering; Hybrid based filtering
 
