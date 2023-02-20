@@ -1,9 +1,9 @@
 # Recommendation_System_Restaurants
-Collaborative based filtering; Content based filtering; Hybrid based filtering
 
 **PROJECT DESCRIPTION:** 
 
-**TECHNICAL GOAL:** 
+**TECHNICAL GOAL:** Collaborative based filtering; Content based filtering; Hybrid based filtering
+
 
 1)	**Download Files:** 
 2)	**Download Script:** 
